@@ -1,13 +1,13 @@
 [package]
 name = "pagerduty-rs"
 version = "0.1.5"
-authors = ["Archis Gore <archis@polyverse.com>"]
+authors = ["Archis Gore <me@archisgore.com>"]
 edition = "2018"
 license = "Apache-2.0"
 categories = ["pagerduty", "alerting"]
 keywords = ["pagerduty", "alerts", "events", "incidents", "monitoring"]
 readme = "README.md"
-repository = "https://github.com/polyverse/pagerduty-rs"
+repository = "https://github.com/archisgore/pagerduty-rs"
 
 description = """PagerDuty API from Rust."""
 
