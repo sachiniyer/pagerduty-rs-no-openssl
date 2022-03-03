@@ -1,5 +1,5 @@
 
-![Build Status](https://github.com/polyverse/pagerduty-rs/workflows/Build%20Status/badge.svg)
+[![Build Status](https://github.com/archisgore/pagerduty-rs/actions/workflows/build.yml/badge.svg)](https://github.com/archisgore/pagerduty-rs/actions/workflows/build.yml)
 
 # pagerduty-rs
 
