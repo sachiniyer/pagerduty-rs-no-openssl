@@ -1,4 +1,11 @@
+# PagerDuty Without penASSL
+Just changed some package feature flags to make this compile without openssl (no linking to -lssl, or -lcrypto). The rest of it is the same.
 
+You should be able to add a lot more compilation targets now (including wasm)
+ 
+Similar to https://github.com/sachiniyer/megalodon-rs-no-openssl
+
+# PagerDuty
 [![Build Status](https://github.com/archisgore/pagerduty-rs/actions/workflows/build.yml/badge.svg)](https://github.com/archisgore/pagerduty-rs/actions/workflows/build.yml)
 
 # pagerduty-rs

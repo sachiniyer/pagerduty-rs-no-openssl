@@ -1,4 +1,3 @@
-#[cfg(feature = "sync")]
 mod synctest {
     use pagerduty_rs::eventsv2sync::*;
     use pagerduty_rs::types::*;
