@@ -1,4 +1,4 @@
-# PagerDuty Without penASSL
+# PagerDuty Without OpenSSL
 Just changed some package feature flags to make this compile without openssl (no linking to -lssl, or -lcrypto). The rest of it is the same.
 
 You should be able to add a lot more compilation targets now (including wasm)
